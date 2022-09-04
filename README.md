@@ -23,3 +23,6 @@ Windows:
 python -m venv venv
 venv\Scripts\activate.bat
 ```
+
+## Example:
+![Captura de tela 2022-09-04 193419](https://user-images.githubusercontent.com/100588945/188335988-2554974f-c619-4647-8e02-671e87611baf.png)
