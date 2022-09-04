@@ -11,7 +11,8 @@ pip install secure-smtplib
 pip install ssl
 ```
 
-The command to create and activate the virtual environment is as follow
+The command to create and activate the virtual environment is as follow.
+
 Mac/Ubuntu:
 ```
 python -m venv venv
